@@ -1,0 +1,15 @@
+Note :
+Aplikasi ini hanya bisa dijalankan ketika menggunakan Database.
+Silahkan buat database menggunakan JDBC.
+
+cara import database di phpMyAdmin :
+buat database baru bernama db_Pemilu
+import file sql yang sudah disediakan ke database db_Pemilu
+
+URL : jdbc:mysql://localhost:3306/db_pemilu
+Username : "root"
+pass: ""
+
+untuk password dan username Login Admin:
+Username : admin
+Password : admin
